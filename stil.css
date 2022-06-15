@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+p {color: cadetblue;
+font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+font-size: 16px;
+line-height: 18px;
+width: 600px;
+background-color: antiquewhite;
+	padding: 20px;
+}
+
+h2, h1{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: cadetblue;
+	background-color:ghostwhite;
+	
+	
+}
+body {background-image: url( "../sveslike/ppozadina.jpg");}
+.drugapozadina {background-color: thistle;}
+a {color: black;
+background-color: white;
+padding: 5px;
+line-height: 40px;
+border: 1px  #000000;
+}
+a:hover{background-color: lightgray;}
+img {height: 250px;
+
+}
+li, ol, ul {background-color: antiquewhite; 
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+color: indianred;}
